@@ -25,12 +25,12 @@ A new react project on sql queries that gives you accurate information based on 
 
 
 --------
-###: Page Load time:
+###⏲️ :Page Load time:
 - it took 333.3ms to load the application, i use Chrome DevTools Performance tab to check the performance of the app.
 
 
 -----------
-###: Optimization :
+###🎇 :Optimization :
 - Tree shaking is the process of removing unused or dead code from the bundles. This is especially important when using utility libraries like Lodash where you do not need all features of the imported library.
 - Prefetching is a way of informing the browser about the resources that are likely to be requested and fetching them before they are necessary. This is done once the required resources for the current page are loaded and when the browser is in idle state.
 - Progressive Web Apps are reliable, fast, and engaging. They load quickly even in slow networks and are high-performant
